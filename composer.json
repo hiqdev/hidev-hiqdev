@@ -1,0 +1,47 @@
+{
+    "name": "hiqdev/hidev-config",
+    "type": "project",
+    "description": "HiQDev's config for HiDev",
+    "keywords": [
+        "hiqdev",
+        "hidev",
+        "config"
+    ],
+    "homepage": "https://hiqdev.com/hidev-config",
+    "license": "BSD-3-Clause",
+    "support": {
+        "email": "support@hiqdev.com",
+        "source": "https://github.com/hiqdev/hidev-config",
+        "issues": "https://github.com/hiqdev/hidev-config/issues",
+        "wiki": "https://github.com/hiqdev/hidev-config/wiki",
+        "forum": "https://forum.hiqdev.com/hidev"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "role": "Project lead",
+            "email": "sol@hiqdev.com",
+            "homepage": "https://hipanel.com/"
+        },
+        {
+            "name": "Dmitry Naumenko",
+            "role": "Lead backend developer",
+            "email": "silverfire@hiqdev.com",
+            "homepage": "http://silverfire.me/"
+        },
+        {
+            "name": "Andrey Klochok",
+            "role": "Lead frontend developer",
+            "email": "tafid@hiqdev.com",
+            "homepage": "https://hiqdev.com/"
+        },
+        {
+            "name": "Yuriy Myronchuk",
+            "role": "QA Lead",
+            "email": "bladeroot@hiqdev.com",
+            "homepage": "https://hiqdev.com/"
+        }
+    ],
+    "require": [],
+    "autoload": []
+}
