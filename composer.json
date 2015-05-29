@@ -43,5 +43,9 @@
         }
     ],
     "require": [],
-    "autoload": []
+    "autoload": {
+        "psr-4": {
+            "hiqdev\\hidev\\config\\": ""
+        }
+    }
 }
