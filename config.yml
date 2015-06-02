@@ -3,6 +3,7 @@ vendor:
     title:      HiQDev
     homepage:   https://hiqdev.com/
     email:      support@hiqdev.com
+    license:    BSD-3-Clause
     authors:
         'Andrii Vasyliev':
             role:       Project lead
