@@ -3,6 +3,8 @@ hiqdev/hidev-config commits history
 
 ## Under development
 
+- preparing release
+    - d33e5f1 2015-06-06 preparing release (sol@hiqdev.com)
 - inited
     - e042dd9 2015-06-02 + license: BSD-3-Clause (sol@hiqdev.com)
     - 5bdb1c7 2015-06-02 fixed typo (sol@hiqdev.com)
