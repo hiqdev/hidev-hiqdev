@@ -1,0 +1,13 @@
+parent:
+    github:         hiqdev/hidev-config
+
+package:
+    name:           hidev-config
+    namespace:      hiqdev\hidev\config
+    label:          HiDevConfig
+    title:          HiQDev's config for HiDev
+    type:           project
+    homepage:       https://hiqdev.com/hidev-config
+    keywords:       hiqdev, hidev, config
+    year:           2015
+
