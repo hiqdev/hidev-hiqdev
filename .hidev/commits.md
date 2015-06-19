@@ -3,6 +3,7 @@ hiqdev/hidev-config commits history
 
 ## Under development
 
+    - aa7d042 2015-06-19 + php-cs-fixer (sol@hiqdev.com)
 - preparing release
     - d33e5f1 2015-06-06 preparing release (sol@hiqdev.com)
 - inited

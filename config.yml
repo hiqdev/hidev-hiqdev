@@ -24,7 +24,9 @@ vendor:
             homepage:   https://hiqdev.com/
 deps: all
 all:
-    deps: git, composer, LICENSE, README.md, CHANGELOG.md, php-cs-fixer
+    deps: git, composer, LICENSE, README.md, CHANGELOG.md, .php_cs
+fix:
+    deps: php-cs-fixer
 php-cs-fixer:
     level: symfony
     header: |

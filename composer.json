@@ -7,7 +7,7 @@
         "hidev",
         "config"
     ],
-    "homepage": "https://hiqdev.com/hidev-config",
+    "homepage": "https://github.com/hiqdev/hidev-config",
     "license": "BSD-3-Clause",
     "support": {
         "email": "support@hiqdev.com",
@@ -42,7 +42,6 @@
             "homepage": "https://hiqdev.com/"
         }
     ],
-    "require": [],
     "autoload": {
         "psr-4": {
             "hiqdev\\hidev\\config\\": ""

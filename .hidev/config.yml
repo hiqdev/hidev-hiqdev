@@ -7,7 +7,6 @@ package:
     label:          HiDevConfig
     title:          HiQDev's config for HiDev
     type:           project
-    homepage:       https://hiqdev.com/hidev-config
     keywords:       hiqdev, hidev, config
     year:           2015
 
