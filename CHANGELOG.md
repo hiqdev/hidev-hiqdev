@@ -1,7 +1,12 @@
 hiqdev/hidev-config changelog
 -----------------------------
 
-## Under development
+## 0.0.2 Under development
+
+- + phpunit
+- + codeception
+
+## 0.0.1 June 19, 2015
 
 - + php-cs-fixer
 - preparing release

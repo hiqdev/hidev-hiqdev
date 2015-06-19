@@ -1,7 +1,12 @@
 hiqdev/hidev-config commits history
 -----------------------------------
 
-## Under development
+## 0.0.2 Under development
+
+- + phpunit
+- + codeception
+
+## 0.0.1 June 19, 2015
 
 - + php-cs-fixer
     - c3498bd 2015-06-19 + 'fix' goal (sol@hiqdev.com)
