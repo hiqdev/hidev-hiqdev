@@ -5,6 +5,7 @@ hiqdev/hidev-config commits history
 
 - + phpunit
 - + codeception
+    - 9b429e5 2015-06-28 + codeception enable coverage (sol@hiqdev.com)
 
 ## 0.0.1 June 19, 2015
 
