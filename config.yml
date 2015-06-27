@@ -22,11 +22,13 @@ vendor:
             role:       QA Lead
             email:      bladeroot@hiqdev.com
             homepage:   https://hiqdev.com/
+
 deps: all
 all:
     deps: git, composer, LICENSE, README.md, CHANGELOG.md, .php_cs
 fix:
     deps: php-cs-fixer
+
 php-cs-fixer:
     level: symfony
     header: |
@@ -58,6 +60,11 @@ php-cs-fixer:
         notPath:
             - runtime
             - tests/unit/UnitTester.php
+
+codeception.yml:
+    coverage:
+        enable: true
+
 aliases:
     t: test
     g: default/grep
