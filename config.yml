@@ -28,6 +28,8 @@ all:
     deps: git, composer, LICENSE, README.md, CHANGELOG.md, .php_cs
 fix:
     deps: php-cs-fixer
+test:
+    deps: codeception
 
 php-cs-fixer:
     level: symfony
@@ -60,6 +62,9 @@ php-cs-fixer:
         notPath:
             - runtime
             - tests/unit/UnitTester.php
+
+codeception:
+    deps: generate/once tests/_bootstrap
 
 codeception.yml:
     coverage:
