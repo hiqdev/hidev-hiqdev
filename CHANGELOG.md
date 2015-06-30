@@ -3,6 +3,7 @@ hiqdev/hidev-config changelog
 
 ## 0.0.2 Under development
 
+- different templates
 - + phpunit
 - + codeception
 

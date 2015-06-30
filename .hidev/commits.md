@@ -3,8 +3,11 @@ hiqdev/hidev-config commits history
 
 ## 0.0.2 Under development
 
+- different templates
+    - 85d3b8b 2015-06-30 * Plugin template: - header comment (sol@hiqdev.com)
 - + phpunit
 - + codeception
+    - 060fd5a 2015-06-30 + test goal & generate/once tests/_bootstrap (sol@hiqdev.com)
     - 9b429e5 2015-06-28 + codeception enable coverage (sol@hiqdev.com)
 
 ## 0.0.1 June 19, 2015
