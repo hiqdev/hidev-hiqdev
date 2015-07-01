@@ -1,0 +1,28 @@
+<?php
+
+namespace {{ config.package.namespace }}\tests\unit\{{ file.dirname }};
+
+use Yii;
+use {{ config.package.namespace }}\{{ file.path }};
+
+class {{ file.filename }}Test extends \PHPUnit_Framework_TestCase
+{
+    public $sample;
+
+    protected function setUp()
+    {
+        $this->sample = Yii::createObject([
+            'class' => {{ file.filename }}::className(),
+        ],['c', null]);
+    }
+
+    protected function tearDown()
+    {
+        $this->sample = null;
+    }
+
+    public function testConstruct()
+    {
+        $this->assertNotNull($this->sample);
+    }
+}
