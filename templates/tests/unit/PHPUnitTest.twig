@@ -17,7 +17,7 @@ class {{ classname }}Test extends \PHPUnit_Framework_TestCase
     {
         $this->sample = Yii::createObject([
             'class' => {{ classname }}::className(),
-        ],['c', null]);
+        ]);
     }
 
     protected function tearDown()
