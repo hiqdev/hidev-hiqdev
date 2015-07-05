@@ -1,6 +1,6 @@
 {
     "name": "hiqdev/hidev-config",
-    "type": "project",
+    "type": "yii2-extension",
     "description": "HiQDev's config for HiDev",
     "keywords": [
         "hiqdev",

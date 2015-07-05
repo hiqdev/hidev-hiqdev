@@ -6,7 +6,7 @@ package:
     namespace:      hiqdev\hidev\config
     label:          HiDevConfig
     title:          HiQDev's config for HiDev
-    type:           project
+    type:           yii2-extension
     keywords:       hiqdev, hidev, config
     year:           2015
 
