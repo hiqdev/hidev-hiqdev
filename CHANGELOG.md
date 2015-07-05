@@ -3,9 +3,9 @@ hiqdev/hidev-config changelog
 
 ## 0.0.2 Under development
 
-- different templates
-- + phpunit
-- + codeception
+- Changed use of parent configuration: redone with use of composer and plugin manager
+- Added different templates
+- Added codeception
 
 ## 0.0.1 June 19, 2015
 

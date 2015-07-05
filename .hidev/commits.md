@@ -3,10 +3,15 @@ hiqdev/hidev-config commits history
 
 ## 0.0.2 Under development
 
-- different templates
+- Changed use of parent configuration: redone with use of composer and plugin manager
+    - 5b78c93 2015-07-05 * composer.json: + require plugins (sol@hiqdev.com)
+- Added different templates
     - 85d3b8b 2015-06-30 * Plugin template: - header comment (sol@hiqdev.com)
-- + phpunit
-- + codeception
+    - b4fa223 2015-07-02 first working variant of PHPUnitTest.twig (sol@hiqdev.com)
+    - 504405b 2015-07-02 * default createObject without params (sol@hiqdev.com)
+    - a3d3ffc 2015-07-01 + templates/tests/unit/PHPUnitTest.twig (sol@hiqdev.com)
+- Added codeception
+    - 2971599 2015-07-05 * codeception goal: + mkdir tests (sol@hiqdev.com)
     - 060fd5a 2015-06-30 + test goal & generate/once tests/_bootstrap (sol@hiqdev.com)
     - 9b429e5 2015-06-28 + codeception enable coverage (sol@hiqdev.com)
 
