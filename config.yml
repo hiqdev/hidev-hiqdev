@@ -64,7 +64,9 @@ php-cs-fixer:
             - tests/unit/UnitTester.php
 
 codeception:
-    deps: generate/once tests/_bootstrap
+    deps:
+        - generate/mkdir tests
+        - generate/once  tests/_bootstrap
 
 codeception.yml:
     coverage:
