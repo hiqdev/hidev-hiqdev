@@ -43,7 +43,7 @@
         }
     ],
     "require": {
-        "hiqdev/hidev": "*@dev",
+        "hiqdev/hidev": "*@dev"
     },
     "autoload": {
         "psr-4": {
