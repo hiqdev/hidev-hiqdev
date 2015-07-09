@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/hidev-config",
     "type": "yii2-extension",
-    "description": "HiQDev's config for HiDev",
+    "description": "HiQDev's general hidev config",
     "keywords": [
         "hiqdev",
         "hidev",
@@ -43,12 +43,11 @@
         }
     ],
     "require": {
-        "hiqdev/hidev-php-cs-fixer": "*@dev",
-        "hiqdev/hidev-codeception": "*@dev"
+        "hiqdev/hidev": "*@dev",
     },
     "autoload": {
         "psr-4": {
-            "hiqdev\\hidev\\config\\": ""
+            "hiqdev\\hidev\\config\\": "src"
         }
     }
 }
