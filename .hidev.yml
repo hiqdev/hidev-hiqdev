@@ -1,6 +1,3 @@
-parent:
-    github:         hiqdev/hidev-config
-
 package:
     name:           hidev-config
     namespace:      hiqdev\hidev\config
@@ -9,4 +6,3 @@ package:
     type:           yii2-extension
     keywords:       hiqdev, hidev, config
     year:           2015
-
