@@ -3,6 +3,14 @@ hiqdev/hidev-config commits history
 
 ## 0.0.2 Under development
 
+    - c485d8d 2015-07-10 - require from composer.json (sol@hiqdev.com)
+    - 0da73e1 2015-07-10 - require-dev (sol@hiqdev.com)
+    - b1377b8 2015-07-09 - parent from .hidev.yml (sol@hiqdev.com)
+    - 7d8905f 2015-07-09 removed all but vendor config (sol@hiqdev.com)
+    - c9badc4 2015-07-09 redoing parent to plugins (sol@hiqdev.com)
+    - 459514f 2015-07-09 fixed composer.json typo (sol@hiqdev.com)
+    - af6a93a 2015-07-09 splited into hidev-config-php moved to src (sol@hiqdev.com)
+    - 12dd1b3 2015-07-05 many changes for redoing parent config (sol@hiqdev.com)
 - Changed use of parent configuration: redone with use of composer and plugin manager
     - 5b78c93 2015-07-05 * composer.json: + require plugins (sol@hiqdev.com)
 - Added different templates
