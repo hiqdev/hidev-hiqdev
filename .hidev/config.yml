@@ -1,0 +1,14 @@
+package:
+    name:           hidev-config
+    namespace:      hiqdev\hidev\config
+    label:          HiDevConfig
+    title:          HiQDev's config for HiDev
+    type:           yii2-extension
+    keywords:       hiqdev, hidev, config
+    year:           2015
+
+require:
+    hiqdev/hidev-config:        "*@dev"
+    hiqdev/hidev-config-php:    "*@dev"
+    hiqdev/hidev-php-cs-fixer:  "*@dev"
+    hiqdev/hidev-codeception:   "*@dev"
