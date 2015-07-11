@@ -3,6 +3,8 @@ hiqdev/hidev-config commits history
 
 ## 0.0.2 Under development
 
+    - a4abba6 2015-07-10 moved back to .hidev (sol@hiqdev.com)
+    - 6b4eb46 2015-07-10 + require (sol@hiqdev.com)
     - c485d8d 2015-07-10 - require from composer.json (sol@hiqdev.com)
     - 0da73e1 2015-07-10 - require-dev (sol@hiqdev.com)
     - b1377b8 2015-07-09 - parent from .hidev.yml (sol@hiqdev.com)

@@ -1,7 +1,7 @@
-HiQDev's config for HiDev
--------------------------
+HiQDev general hidev config
+---------------------------
 
-HiQDev's config for HiDev
+HiQDev general hidev config
 
 For more info see wiki:
 https://github.com/hiqdev/hidev-config/wiki

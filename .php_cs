@@ -1,7 +1,7 @@
 <?php
 
 $header = <<<EOF
-HiQDev&#039;s config for HiDev
+HiQDev general hidev config
 
 @link      https://github.com/hiqdev/hidev-config
 @package   hidev-config
