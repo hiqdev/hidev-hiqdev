@@ -3,6 +3,9 @@ hiqdev/hidev-config commits history
 
 ## 0.0.2 Under development
 
+- Changed configuration: redone parent to plugins
+    - dc30ce1 2015-07-11 simplified .hidev/config require to hidev-config-php only (sol@hiqdev.com)
+    - 1977d08 2015-07-11 * package title (sol@hiqdev.com)
     - a4abba6 2015-07-10 moved back to .hidev (sol@hiqdev.com)
     - 6b4eb46 2015-07-10 + require (sol@hiqdev.com)
     - c485d8d 2015-07-10 - require from composer.json (sol@hiqdev.com)
@@ -13,7 +16,6 @@ hiqdev/hidev-config commits history
     - 459514f 2015-07-09 fixed composer.json typo (sol@hiqdev.com)
     - af6a93a 2015-07-09 splited into hidev-config-php moved to src (sol@hiqdev.com)
     - 12dd1b3 2015-07-05 many changes for redoing parent config (sol@hiqdev.com)
-- Changed use of parent configuration: redone with use of composer and plugin manager
     - 5b78c93 2015-07-05 * composer.json: + require plugins (sol@hiqdev.com)
 - Added different templates
     - 85d3b8b 2015-06-30 * Plugin template: - header comment (sol@hiqdev.com)
@@ -27,12 +29,11 @@ hiqdev/hidev-config commits history
 
 ## 0.0.1 June 19, 2015
 
-- + php-cs-fixer
+- Added php-cs-fixer
     - c3498bd 2015-06-19 + 'fix' goal (sol@hiqdev.com)
     - aa7d042 2015-06-19 + php-cs-fixer (sol@hiqdev.com)
-- preparing release
+- Inited
     - d33e5f1 2015-06-06 preparing release (sol@hiqdev.com)
-- inited
     - e042dd9 2015-06-02 + license: BSD-3-Clause (sol@hiqdev.com)
     - 5bdb1c7 2015-06-02 fixed typo (sol@hiqdev.com)
     - 3978b8e 2015-06-01 + templates/Plugin.twig (sol@hiqdev.com)
