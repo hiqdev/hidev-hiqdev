@@ -8,4 +8,7 @@ package:
     year:           2015
 
 require:
-    hiqdev/hidev-config-php:    "*@dev"
+    hiqdev/hidev-config-php:    "*"
+
+include:
+    - src/config.yml
