@@ -1,8 +1,8 @@
 vendor:
     name:       hiqdev
     title:      HiQDev
-    homepage:   https://hiqdev.com/
-    forum:      https://forum.hiqdev.com/
+    homepage:   http://hiqdev.com/
+    forum:      http://forum.hiqdev.com/
     email:      support@hiqdev.com
     license:    BSD-3-Clause
     authors:
