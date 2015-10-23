@@ -9,7 +9,7 @@ vendor:
         'Andrii Vasyliev':
             role:       Project lead
             email:      sol@hiqdev.com
-            homepage:   https://hipanel.com/
+            homepage:   http://hipanel.com/
         'Dmitry Naumenko':
             role:       Lead backend developer
             email:      silverfire@hiqdev.com
@@ -17,8 +17,8 @@ vendor:
         'Andrey Klochok':
             role:       Lead frontend developer
             email:      tafid@hiqdev.com
-            homepage:   https://hiqdev.com/
+            homepage:   http://hiqdev.com/
         'Yuriy Myronchuk':
             role:       QA Lead
             email:      bladeroot@hiqdev.com
-            homepage:   https://hiqdev.com/
+            homepage:   http://hiqdev.com/
