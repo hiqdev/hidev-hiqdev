@@ -1,8 +1,13 @@
 hiqdev/hidev-config commits history
 -----------------------------------
 
-## 0.0.4 Under development
+## 0.0.5 Under development
 
+
+## 0.0.4 2015-10-23
+
+- Changed package title to: HiQDev vendor hidev config
+    - 0d5bd5f 2015-10-23 changed package title to: HiQDev vendor hidev config (sol@hiqdev.com)
 
 ## 0.0.3 2015-10-23
 
