@@ -1,8 +1,13 @@
 hiqdev/hidev-config changelog
 -----------------------------
 
-## 0.0.3 Under development
+## 0.0.4 Under development
 
+
+## 0.0.3 2015-10-23
+
+- Changed package title
+- Changed urls to https <- https
 
 ## 0.0.2 2015-07-11
 

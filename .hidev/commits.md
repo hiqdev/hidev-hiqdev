@@ -1,8 +1,16 @@
 hiqdev/hidev-config commits history
 -----------------------------------
 
-## 0.0.3 Under development
+## 0.0.4 Under development
 
+
+## 0.0.3 2015-10-23
+
+- Changed package title
+    - 84925b8 2015-10-23 changed package title (sol@hiqdev.com)
+- Changed urls to https <- https
+    - 9b510d3 2015-10-23 changed authors homepage urls to http <- https (sol@hiqdev.com)
+    - 2cb00f5 2015-10-23 changed homepage and forum urls to http <- https (sol@hiqdev.com)
 
 ## 0.0.2 2015-07-11
 
