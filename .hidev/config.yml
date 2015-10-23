@@ -1,8 +1,8 @@
 package:
     name:           hidev-config
     namespace:      hiqdev\hidev\config
-    label:          HiDevConfig
-    title:          HiQDev hidev vendor config
+    label:          HiQDevConfig
+    title:          HiQDev vendor hidev config
     type:           yii2-extension
     keywords:       hiqdev, hidev, config
     year:           2015

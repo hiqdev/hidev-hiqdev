@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/hidev-config",
     "type": "yii2-extension",
-    "description": "HiQDev hidev vendor config",
+    "description": "HiQDev vendor hidev config",
     "keywords": [
         "hiqdev",
         "hidev",

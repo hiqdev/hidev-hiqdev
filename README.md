@@ -1,7 +1,7 @@
-HiQDev hidev vendor config
+HiQDev vendor hidev config
 --------------------------
 
-HiQDev hidev vendor config
+HiQDev vendor hidev config
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-config/v/stable.png)](https://packagist.org/packages/hiqdev/hidev-config)
 [![Total Downloads](https://poser.pugx.org/hiqdev/hidev-config/downloads.png)](https://packagist.org/packages/hiqdev/hidev-config)

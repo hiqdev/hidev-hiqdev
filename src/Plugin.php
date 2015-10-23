@@ -1,12 +1,12 @@
 <?php
 
 /*
- * HiQDev general hidev config
+ * HiQDev hidev vendor config
  *
  * @link      https://github.com/hiqdev/hidev-config
  * @package   hidev-config
  * @license   BSD-3-Clause
- * @copyright Copyright (c) 2015, HiQDev (https://hiqdev.com/)
+ * @copyright Copyright (c) 2015, HiQDev (http://hiqdev.com/)
  */
 
 namespace hiqdev\hidev\config;
