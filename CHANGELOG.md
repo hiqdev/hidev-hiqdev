@@ -1,8 +1,12 @@
 hiqdev/hidev-config changelog
 -----------------------------
 
-## 0.0.5 Under development
+## Under development
 
+
+## 0.1.0 2015-10-24
+
+- Fixed badges
 
 ## 0.0.4 2015-10-23
 

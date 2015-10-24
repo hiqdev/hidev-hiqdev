@@ -1,8 +1,13 @@
 hiqdev/hidev-config commits history
 -----------------------------------
 
-## 0.0.5 Under development
+## Under development
 
+
+## 0.1.0 2015-10-24
+
+- Fixed badges
+    - 474dfe4 2015-10-24 fixed badges (sol@hiqdev.com)
 
 ## 0.0.4 2015-10-23
 
