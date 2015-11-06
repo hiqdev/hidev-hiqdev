@@ -3,12 +3,12 @@ package:
     namespace:      hiqdev\hidev\config
     label:          HiQDevConfig
     headline:       HiQDev hidev config
-    title:          HiQDev vendor configuration for Hidev
+    title:          HiQDev vendor configuration for hidev
     type:           yii2-extension
     keywords:       hiqdev, hidev, config
     year:           2015
     description:    |
-        Contains:
+        Contains HiQDev infomation:
         * general data: vendor name and company title
         * contact data: email, forum, github page
         * authors data: names, emails, github and home pages
