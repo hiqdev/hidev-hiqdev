@@ -3,7 +3,7 @@ hiqdev/hidev-config changelog
 
 ## Under development
 
-- Changed headline to `HiQDev hidev config`
+- Fixed (improved) package description
 - Changed structure of authors config and added nick and github
 
 ## 0.1.0 2015-10-24

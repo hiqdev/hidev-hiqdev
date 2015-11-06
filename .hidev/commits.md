@@ -3,7 +3,8 @@ hiqdev/hidev-config commits history
 
 ## Under development
 
-- Changed headline to `HiQDev hidev config`
+- Fixed (improved) package description
+    - 5171457 2015-11-06 improved package description (sol@hiqdev.com)
     - 2fc8574 2015-11-06 changed headline to (sol@hiqdev.com)
 - Changed structure of authors config and added nick and github
     - 35b6e90 2015-11-06 changed structure of authors config and added nick and github (sol@hiqdev.com)
