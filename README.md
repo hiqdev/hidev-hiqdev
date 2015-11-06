@@ -12,7 +12,7 @@ Contains:
 * authors data: names, emails, github and home pages
 * default license: BSD-3-Clause
 
-See [src/config](blob/master/src/config.yml).
+See [src/config].
 
 ## Installation
 
