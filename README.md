@@ -12,7 +12,7 @@ Contains:
 * authors data: names, emails, github and home pages
 * default license: BSD-3-Clause
 
-See (src/config).
+See [src/config.yml](src/config.yml).
 
 ## Installation
 
