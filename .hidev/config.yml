@@ -2,10 +2,17 @@ package:
     name:           hidev-config
     namespace:      hiqdev\hidev\config
     label:          HiQDevConfig
-    title:          HiQDev vendor hidev config
+    title:          HiQDev vendor configuration for Hidev
     type:           yii2-extension
     keywords:       hiqdev, hidev, config
     year:           2015
+    description:    |
+        Contains:
+        * general data: vendor name and company title
+        * contact data: email, forum, github page
+        * authors data: names, emails, github and home pages
+        * default license: BSD-3-Clause
+        See [src/config](blob/master/src/config.yml).
 
 require:
     hiqdev/hidev-config-php:    "*"

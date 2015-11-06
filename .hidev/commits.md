@@ -3,6 +3,8 @@ hiqdev/hidev-config commits history
 
 ## Under development
 
+- Changed structure of authors config and added nick and github
+    - 35b6e90 2015-11-06 changed structure of authors config and added nick and github (sol@hiqdev.com)
 
 ## 0.1.0 2015-10-24
 

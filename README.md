@@ -1,10 +1,15 @@
-HiQDev vendor hidev config
---------------------------
-
-HiQDev vendor hidev config
+HiQDev vendor configuration for Hidev
+=====================================
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-config/v/stable)](//packagist.org/packages/hiqdev/hidev-config)
 [![Total Downloads](https://poser.pugx.org/hiqdev/hidev-config/downloads)](//packagist.org/packages/hiqdev/hidev-config)
+
+Contains:
+* general data: vendor name and company title
+* contact data: email, forum, github page
+* authors data: names, emails, github and home pages
+* default license: BSD-3-Clause
+See [src/config](blob/master/src/config.yml).
 
 ## Installation
 
