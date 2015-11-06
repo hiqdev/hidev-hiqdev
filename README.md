@@ -11,6 +11,7 @@ Contains:
 * contact data: email, forum, github page
 * authors data: names, emails, github and home pages
 * default license: BSD-3-Clause
+
 See [src/config](blob/master/src/config.yml).
 
 ## Installation
