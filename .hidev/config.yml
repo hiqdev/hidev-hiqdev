@@ -8,7 +8,7 @@ package:
     keywords:       hiqdev, hidev, config
     year:           2015
     description:    |
-        Contains HiQDev infomation:
+        Contains information about HiQDev:
         * general data: vendor name and company title
         * contact data: email, forum, github page
         * authors data: names, emails, github and home pages

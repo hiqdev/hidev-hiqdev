@@ -6,7 +6,7 @@ HiQDev hidev config
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-config/v/stable)](//packagist.org/packages/hiqdev/hidev-config)
 [![Total Downloads](https://poser.pugx.org/hiqdev/hidev-config/downloads)](//packagist.org/packages/hiqdev/hidev-config)
 
-Contains HiQDev infomation:
+Contains information about HiQDev:
 * general data: vendor name and company title
 * contact data: email, forum, github page
 * authors data: names, emails, github and home pages
