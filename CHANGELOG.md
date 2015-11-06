@@ -3,6 +3,9 @@ hiqdev/hidev-config changelog
 
 ## Under development
 
+
+## 0.1.1 2015-11-06
+
 - Fixed (improved) package description
 - Changed structure of authors config and added nick and github
 
