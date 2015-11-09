@@ -10,7 +10,7 @@ HiDev HiQDev config
 This plugin provides [HiQDev](https://github.com/hiqdev) vendor configuration for HiDev.
 Used for HiQDev packages. Can be used as template for configs of other vendors.
 
-Contains information about HiQDev:
+Provides information about HiQDev:
 * general data: vendor name and company title
 * contact data: email, forum, github page
 * authors data: names, emails, github and home pages
