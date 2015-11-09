@@ -8,7 +8,7 @@ HiDev HiQDev config
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 This plugin provides [HiQDev](https://github.com/hiqdev) vendor configuration for HiDev.
-Used for HiQDev packages. Can be used as template for other vendor configs.
+Used for HiQDev packages. Can be used as template for configs of other vendors.
 
 Contains information about HiQDev:
 * general data: vendor name and company title
