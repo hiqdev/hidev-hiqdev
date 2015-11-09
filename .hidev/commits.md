@@ -3,6 +3,7 @@ hiqdev/hidev-config commits history
 
 ## Under development
 
+    - c90b172 2015-11-09 improved description (sol@hiqdev.com)
     - ef2fb86 2015-11-09 fixed package description (sol@hiqdev.com)
 
 ## 0.1.1 2015-11-06

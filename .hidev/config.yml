@@ -3,7 +3,7 @@ package:
     namespace:      hiqdev\hidev\config
     label:          HiQDevConfig
     headline:       HiDev HiQDev config
-    title:          HiQDev vendor configuration for hidev
+    title:          HiQDev vendor configuration for HiDev
     type:           yii2-extension
     keywords:       hiqdev, hidev, config
     year:           2015

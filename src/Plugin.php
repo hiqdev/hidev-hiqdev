@@ -1,7 +1,7 @@
 <?php
 
 /*
- * HiQDev hidev vendor config
+ * HiQDev vendor configuration for HiDev
  *
  * @link      https://github.com/hiqdev/hidev-config
  * @package   hidev-config
