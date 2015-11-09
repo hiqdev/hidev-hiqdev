@@ -15,7 +15,7 @@ package:
         Provides information about HiQDev:
         * general data: vendor name and company title
         * contact data: email, forum, github page
-        * authors data: names, emails, github and home pages
+        * authors data: names, roles, emails, github and home pages
         * default license: BSD-3-Clause
 
         See [src/config.yml](src/config.yml).

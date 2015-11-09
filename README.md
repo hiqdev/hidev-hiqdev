@@ -13,7 +13,7 @@ Used for HiQDev packages. Can be used as template for configs of other vendors.
 Provides information about HiQDev:
 * general data: vendor name and company title
 * contact data: email, forum, github page
-* authors data: names, emails, github and home pages
+* authors data: names, roles, emails, github and home pages
 * default license: BSD-3-Clause
 
 See [src/config.yml](src/config.yml).
