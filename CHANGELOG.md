@@ -4,6 +4,10 @@ hiqdev/hidev-config changelog
 ## Under development
 
 
+## 0.1.2 2015-11-09
+
+- Fixed (improved) package description
+
 ## 0.1.1 2015-11-06
 
 - Fixed (improved) package description
