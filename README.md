@@ -7,7 +7,8 @@ HiDev HiQDev config
 [![Total Downloads](https://poser.pugx.org/hiqdev/hidev-config/downloads)](//packagist.org/packages/hiqdev/hidev-config)
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
-This plugin enables [HiQDev](https://github.com/hiqdev) vendor configuration for HiDev.
+This plugin provides [HiQDev](https://github.com/hiqdev) vendor configuration for HiDev.
+Used for HiQDev packages. Can be used as template for other vendor configs.
 
 Contains information about HiQDev:
 * general data: vendor name and company title
