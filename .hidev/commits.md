@@ -3,6 +3,8 @@ hiqdev/hidev-hiqdev commits history
 
 ## Under development
 
+- Redone to `hidev-hiqdev`
+    - 81e547a 2015-11-17 redoing to `hidev-hiqdev` (sol@hiqdev.com)
 
 ## 0.1.2 2015-11-09
 

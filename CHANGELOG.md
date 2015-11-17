@@ -3,6 +3,7 @@ hiqdev/hidev-hiqdev changelog
 
 ## Under development
 
+- Redone to `hidev-hiqdev`
 
 ## 0.1.2 2015-11-09
 
