@@ -61,7 +61,7 @@ hiqdev/hidev-hiqdev commits history
     - a3d3ffc 2015-07-01 + templates/tests/unit/PHPUnitTest.twig (sol@hiqdev.com)
 - Added codeception
     - 2971599 2015-07-05 * codeception goal: + mkdir tests (sol@hiqdev.com)
-    - 060fd5a 2015-06-30 + test goal & generate/once tests/_bootstrap (sol@hiqdev.com)
+    - 060fd5a 2015-06-30 + test goal & generate/once `tests/_bootstrap` (sol@hiqdev.com)
     - 9b429e5 2015-06-28 + codeception enable coverage (sol@hiqdev.com)
 
 ## 0.0.1 June 19, 2015
