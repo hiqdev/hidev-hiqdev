@@ -11,9 +11,9 @@
     "license": "BSD-3-Clause",
     "support": {
         "email": "support@hiqdev.com",
-        "source": "https://github.com/hiqdev/hidev-config",
-        "issues": "https://github.com/hiqdev/hidev-config/issues",
-        "wiki": "https://github.com/hiqdev/hidev-config/wiki",
+        "source": "https://github.com/hiqdev/hidev-hiqdev",
+        "issues": "https://github.com/hiqdev/hidev-hiqdev/issues",
+        "wiki": "https://github.com/hiqdev/hidev-hiqdev/wiki",
         "forum": "http://forum.hiqdev.com/"
     },
     "authors": [
@@ -44,7 +44,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "hiqdev\\hidev\\hiqdev\\": "src"
+            "hidev\\hiqdev\\": "src"
         }
     }
 }

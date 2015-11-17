@@ -1,6 +1,6 @@
 package:
     name:           hidev-hiqdev
-    namespace:      hiqdev\hidev\hiqdev
+    namespace:      hidev\hiqdev
     headline:       HiDev HiQDev
     title:          HiQDev vendor configuration for HiDev
     type:           yii2-extension
