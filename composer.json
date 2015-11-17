@@ -44,8 +44,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "hiqdev\\hidev\\hiqdev\\": "src",
-            "hiqdev\\hidev\\config\\": "src"
+            "hiqdev\\hidev\\hiqdev\\": "src"
         }
     }
 }
