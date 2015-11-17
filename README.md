@@ -24,7 +24,7 @@ The preferred way to install this yii2-extension is through [composer](http://ge
 
 Either run
 
-```
+```sh
 php composer.phar require "hiqdev/hidev-hiqdev"
 ```
 

@@ -20,7 +20,7 @@ package:
         See [src/config.yml](src/config.yml).
 
 require:
-    hiqdev/hidev-config-php:    "*"
+    hiqdev/hidev-php: "*@dev"
 
 include:
     - src/config.yml
