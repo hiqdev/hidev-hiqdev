@@ -1,4 +1,4 @@
-hiqdev/hidev-config commits history
+hiqdev/hidev-hiqdev commits history
 -----------------------------------
 
 ## Under development

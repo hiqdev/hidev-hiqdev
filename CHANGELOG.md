@@ -1,4 +1,4 @@
-hiqdev/hidev-config changelog
+hiqdev/hidev-hiqdev changelog
 -----------------------------
 
 ## Under development

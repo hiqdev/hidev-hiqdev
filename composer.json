@@ -1,5 +1,5 @@
 {
-    "name": "hiqdev/hidev-config",
+    "name": "hiqdev/hidev-hiqdev",
     "type": "yii2-extension",
     "description": "HiQDev vendor configuration for HiDev",
     "keywords": [
@@ -7,7 +7,7 @@
         "hidev",
         "config"
     ],
-    "homepage": "https://github.com/hiqdev/hidev-config",
+    "homepage": "https://github.com/hiqdev/hidev-hiqdev",
     "license": "BSD-3-Clause",
     "support": {
         "email": "support@hiqdev.com",
@@ -44,6 +44,7 @@
     ],
     "autoload": {
         "psr-4": {
+            "hiqdev\\hidev\\hiqdev\\": "src",
             "hiqdev\\hidev\\config\\": "src"
         }
     }
