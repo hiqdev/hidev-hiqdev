@@ -3,7 +3,11 @@ hiqdev/hidev-hiqdev commits history
 
 ## Under development
 
+
+## 0.1.3 2015-11-18
+
 - Redone to `hidev-hiqdev`
+    - a00dad5 2015-11-18 php-cs-fixed (sol@hiqdev.com)
     - 62c21cc 2015-11-17 fixed namespace to `hidev\hiqdev` (sol@hiqdev.com)
     - 81e547a 2015-11-17 redoing to `hidev-hiqdev` (sol@hiqdev.com)
 
