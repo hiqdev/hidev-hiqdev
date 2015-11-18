@@ -6,7 +6,7 @@ hiqdev/hidev-hiqdev changelog
 
 ## 0.1.3 2015-11-18
 
-- Redone to `hidev-hiqdev`
+- Changed: redone to `hidev-hiqdev`
 
 ## 0.1.2 2015-11-09
 
