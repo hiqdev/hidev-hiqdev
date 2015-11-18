@@ -4,13 +4,10 @@ hiqdev/hidev-hiqdev changelog
 ## Under development
 
 
-## 0.1.3 2015-11-18
+## 0.1.2 2015-11-18
 
 - Changed: redone to `hidev-hiqdev`
-
-## 0.1.2 2015-11-09
-
-- Fixed (improved) package description
+- Fixed (improved) package description again
 
 ## 0.1.1 2015-11-06
 
