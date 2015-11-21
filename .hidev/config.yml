@@ -21,6 +21,9 @@ package:
 
 require:
     hiqdev/hidev-php: "*@dev"
+    hiqdev/hidev-travis-ci: "*@dev"
+    hiqdev/hidev-codeception: "*@dev"
+    hiqdev/hidev-php-cs-fixer: "*@dev"
 
 include:
     - src/config.yml
