@@ -19,11 +19,14 @@ package:
 
         See [src/config.yml](src/config.yml).
 
-require:
-    hiqdev/hidev-php: "*@dev"
-    hiqdev/hidev-travis-ci: "*@dev"
-    hiqdev/hidev-codeception: "*@dev"
-    hiqdev/hidev-php-cs-fixer: "*@dev"
-
 include:
     - src/config.yml
+
+require:
+    hiqdev/hidev-php:           "*@dev"
+    hiqdev/hidev-license:       "*@dev"
+    hiqdev/hidev-phpunit:       "*@dev"
+    hiqdev/hidev-travis-ci:     "*@dev"
+    hiqdev/hidev-codeception:   "*@dev"
+    hiqdev/hidev-php-cs-fixer:  "*@dev"
+

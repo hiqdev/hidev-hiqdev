@@ -3,6 +3,7 @@ hiqdev/hidev-hiqdev changelog
 
 ## Under development
 
+- Added Travis CI
 
 ## 0.1.2 2015-11-18
 
