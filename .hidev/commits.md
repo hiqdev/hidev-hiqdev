@@ -75,7 +75,7 @@ hiqdev/hidev-hiqdev commits history
 ## 0.0.1 June 19, 2015
 
 - Added php-cs-fixer
-    - c3498bd 2015-06-19 + 'fix' goal (sol@hiqdev.com)
+    - c3498bd 2015-06-19 + `fix` goal (sol@hiqdev.com)
     - aa7d042 2015-06-19 + php-cs-fixer (sol@hiqdev.com)
 - Inited
     - d33e5f1 2015-06-06 preparing release (sol@hiqdev.com)
