@@ -3,7 +3,11 @@ hiqdev/hidev-hiqdev commits history
 
 ## Under development
 
-- Added Travis CI
+
+## 0.1.3 2015-11-24
+
+- Added tests and Travis CI
+    - becfc3c 2015-11-24 added tests and Travis CI (sol@hiqdev.com)
     - 545ccf5 2015-11-21 doing travis (sol@hiqdev.com)
 
 ## 0.1.2 2015-11-18
