@@ -1,4 +1,4 @@
-hiqdev/hidev-hiqdev commits history
+hiqdev/hidev-vendor commits history
 -----------------------------------
 
 ## Under development

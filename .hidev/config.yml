@@ -1,10 +1,10 @@
 package:
-    name:           hidev-hiqdev
+    name:           hidev-vendor
     namespace:      hidev\hiqdev
     headline:       HiDev HiQDev
     title:          HiQDev vendor configuration for HiDev
     type:           yii2-extension
-    keywords:       hiqdev, hidev, config
+    keywords:       hiqdev, hidev, vendor, config
     year:           2015
     description:    |
         [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.

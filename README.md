@@ -3,9 +3,9 @@ HiDev HiQDev
 
 **HiQDev vendor configuration for HiDev**
 
-[![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-hiqdev/v/stable)](//packagist.org/packages/hiqdev/hidev-hiqdev)
-[![Total Downloads](https://poser.pugx.org/hiqdev/hidev-hiqdev/downloads)](//packagist.org/packages/hiqdev/hidev-hiqdev)
-[![Build Status](https://img.shields.io/travis/hiqdev/hidev-hiqdev.svg)](http://travis-ci.org/hiqdev/hidev-hiqdev)
+[![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-vendor/v/stable)](https://packagist.org/packages/hiqdev/hidev-vendor)
+[![Total Downloads](https://poser.pugx.org/hiqdev/hidev-vendor/downloads)](https://packagist.org/packages/hiqdev/hidev-vendor)
+[![Build Status](https://img.shields.io/travis/hiqdev/hidev-vendor.svg)](https://travis-ci.org/hiqdev/hidev-vendor)
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 This plugin provides [HiQDev](https://github.com/hiqdev) vendor configuration for HiDev.
@@ -26,13 +26,13 @@ The preferred way to install this yii2-extension is through [composer](http://ge
 Either run
 
 ```sh
-php composer.phar require "hiqdev/hidev-hiqdev"
+php composer.phar require "hiqdev/hidev-vendor"
 ```
 
 or add
 
 ```json
-"hiqdev/hidev-hiqdev": "*"
+"hiqdev/hidev-vendor": "*"
 ```
 
 to the require section of your composer.json.
