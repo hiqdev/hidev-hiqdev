@@ -3,6 +3,7 @@ hiqdev/hidev-vendor changelog
 
 ## Under development
 
+- Changed: renamed to `hidev-vendor`
 
 ## 0.1.3 2015-11-24
 

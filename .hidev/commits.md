@@ -3,6 +3,8 @@ hiqdev/hidev-vendor commits history
 
 ## Under development
 
+- Changed: renamed to `hidev-vendor`
+    - 6c85a23 2015-12-10 renamed to `hidev-vendor` (sol@hiqdev.com)
 
 ## 0.1.3 2015-11-24
 
