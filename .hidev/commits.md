@@ -3,6 +3,7 @@ hiqdev/hidev-vendor commits history
 
 ## Under development
 
+    - d6eb62d 2015-12-21 Added -phpdoc_scalar option to the phpcs fixed config (d.naumenko.a@gmail.com)
 - Changed: renamed to `hidev-vendor`
     - f54e930 2015-12-17 fixing build (sol@hiqdev.com)
     - 6c85a23 2015-12-10 renamed to `hidev-vendor` (sol@hiqdev.com)
