@@ -6,6 +6,8 @@ HiDev HiQDev
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-vendor/v/stable)](https://packagist.org/packages/hiqdev/hidev-vendor)
 [![Total Downloads](https://poser.pugx.org/hiqdev/hidev-vendor/downloads)](https://packagist.org/packages/hiqdev/hidev-vendor)
 [![Build Status](https://img.shields.io/travis/hiqdev/hidev-vendor.svg)](https://travis-ci.org/hiqdev/hidev-vendor)
+[![Code Coverage](https://scrutinizer-ci.com/g/hiqdev/hidev-vendor/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/hidev-vendor/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hiqdev/hidev-vendor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/hidev-vendor/?branch=master)
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 This plugin provides [HiQDev](https://github.com/hiqdev) vendor configuration for HiDev.
