@@ -3,6 +3,10 @@ hiqdev/hidev-vendor changelog
 
 ## Under development
 
+
+## 0.2.0 2015-12-23
+
+- Fixed build
 - Added `-phpdoc_scalar` fixer option
 - Changed: renamed to `hidev-vendor`
 

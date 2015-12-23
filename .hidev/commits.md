@@ -3,6 +3,11 @@ hiqdev/hidev-vendor commits history
 
 ## Under development
 
+
+## 0.2.0 2015-12-23
+
+- Fixed build
+    - 7b0806a 2015-12-23 + Travis after_script to upload coverage to Scrutinizer (sol@hiqdev.com)
 - Added `-phpdoc_scalar` fixer option
     - bea3d5d 2015-12-21 + `-phpdoc_scalar` fixer option (sol@hiqdev.com)
     - 455d4e9 2015-12-21 + php-cs-fixer config (sol@hiqdev.com)
