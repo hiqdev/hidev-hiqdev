@@ -4,6 +4,7 @@ hiqdev/hidev-vendor commits history
 ## Under development
 
 - Fixed config.yml to be Symfony YAML 3.0 compatible
+    - 3042ae6 2016-01-02 + scrutinizer config for code rating and duplication checks (sol@hiqdev.com)
     - 983d7b3 2016-01-02 fixed config.yml, added quoting to be compatible with Symfony YAML 3.0 (sol@hiqdev.com)
 
 ## 0.2.0 2015-12-23
