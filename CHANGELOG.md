@@ -3,6 +3,7 @@ hiqdev/hidev-vendor changelog
 
 ## Under development
 
+- Fixed config.yml to be Symfony YAML 3.0 compatible
 
 ## 0.2.0 2015-12-23
 
