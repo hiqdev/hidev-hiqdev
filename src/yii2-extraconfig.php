@@ -11,11 +11,13 @@
 
 return [
     'components' => [
-        'configs' => [
-            '@hidev/hiqdev/config.yml',
-        ],
-        'views' => [
-            '@hidev/hiqdev/views',
+        'config' => [
+            'configs' => [
+                '@hidev/hiqdev/config.yml',
+            ],
+            'views' => [
+                '@hidev/hiqdev/views',
+            ],
         ],
     ],
 ];
