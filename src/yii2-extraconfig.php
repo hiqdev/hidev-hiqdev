@@ -10,10 +10,12 @@
  */
 
 return [
-    'configFiles' => [
-        '@hidev/hiqdev/config.yml',
-    ],
-    'views' => [
-        '@hidev/hiqdev/views',
+    'components' => [
+        'configs' => [
+            '@hidev/hiqdev/config.yml',
+        ],
+        'views' => [
+            '@hidev/hiqdev/views',
+        ],
     ],
 ];
