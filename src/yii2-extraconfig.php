@@ -12,7 +12,7 @@
 return [
     'components' => [
         'config' => [
-            'configs' => [
+            'include' => [
                 '@hidev/hiqdev/config.yml',
             ],
             'views' => [
