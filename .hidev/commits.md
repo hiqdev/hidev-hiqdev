@@ -3,6 +3,10 @@ hiqdev/hidev-vendor commits history
 
 ## Under development
 
+    - 953dbe2 2016-01-08 Changed  -> (sol@hiqdev.com)
+    - 5d85050 2016-01-06 changed config structure (sol@hiqdev.com)
+    - dd2986d 2016-01-06 redoing with yii2-extraconfig (sol@hiqdev.com)
+    - 5c4bb80 2016-01-06 + yii2-extraconfig (sol@hiqdev.com)
 - Fixed config.yml to be Symfony YAML 3.0 compatible
     - 3042ae6 2016-01-02 + scrutinizer config for code rating and duplication checks (sol@hiqdev.com)
     - 983d7b3 2016-01-02 fixed config.yml, added quoting to be compatible with Symfony YAML 3.0 (sol@hiqdev.com)
