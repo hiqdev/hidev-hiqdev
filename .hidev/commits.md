@@ -1,9 +1,12 @@
 hiqdev/hidev-vendor commits history
 -----------------------------------
 
-## Under development
+## 0.3.0 2016-01-15
 
-    - 953dbe2 2016-01-08 Changed  -> (sol@hiqdev.com)
+- Changed PluginManager -> yii2-extraconfig
+    - c8f4ffa 2016-01-15 rehideved (sol@hiqdev.com)
+    - 7a64a06 2016-01-15 fixed tests (sol@hiqdev.com)
+    - 953dbe2 2016-01-08 Changed configs -> include (sol@hiqdev.com)
     - 5d85050 2016-01-06 changed config structure (sol@hiqdev.com)
     - dd2986d 2016-01-06 redoing with yii2-extraconfig (sol@hiqdev.com)
     - 5c4bb80 2016-01-06 + yii2-extraconfig (sol@hiqdev.com)

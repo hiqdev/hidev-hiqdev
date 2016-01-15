@@ -1,8 +1,9 @@
 hiqdev/hidev-vendor changelog
 -----------------------------
 
-## Under development
+## 0.3.0 2016-01-15
 
+- Changed PluginManager -> yii2-extraconfig
 - Fixed config.yml to be Symfony YAML 3.0 compatible
 
 ## 0.2.0 2015-12-23
