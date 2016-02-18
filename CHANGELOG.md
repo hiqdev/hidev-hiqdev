@@ -1,6 +1,10 @@
 hiqdev/hidev-vendor changelog
 -----------------------------
 
+## 0.3.1 2016-02-18
+
+- Changed: disabled `phpdoc_to_comment` fixer
+
 ## 0.3.0 2016-01-15
 
 - Changed PluginManager -> yii2-extraconfig

@@ -1,6 +1,12 @@
 hiqdev/hidev-vendor commits history
 -----------------------------------
 
+## 0.3.1 2016-02-18
+
+- Changed: disabled `phpdoc_to_comment` fixer
+    - c1f2e77 2016-02-18 rehideved (sol@hiqdev.com)
+    - b720283 2016-02-18 disabled `phpdoc_to_comment` fixer (sol@hiqdev.com)
+
 ## 0.3.0 2016-01-15
 
 - Changed PluginManager -> yii2-extraconfig
@@ -17,7 +23,7 @@ hiqdev/hidev-vendor commits history
 ## 0.2.0 2015-12-23
 
 - Fixed build
-    - 7b0806a 2015-12-23 + Travis after_script to upload coverage to Scrutinizer (sol@hiqdev.com)
+    - 7b0806a 2015-12-23 + Travis `after_script` to upload coverage to Scrutinizer (sol@hiqdev.com)
 - Added `-phpdoc_scalar` fixer option
     - bea3d5d 2015-12-21 + `-phpdoc_scalar` fixer option (sol@hiqdev.com)
     - 455d4e9 2015-12-21 + php-cs-fixer config (sol@hiqdev.com)
