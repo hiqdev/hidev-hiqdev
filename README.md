@@ -10,10 +10,12 @@ HiDev HiQDev
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hiqdev/hidev-vendor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/hidev-vendor/?branch=master)
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
+
 This plugin provides [HiQDev](https://github.com/hiqdev) vendor configuration for HiDev.
 Used for HiQDev packages. Can be used as template for configs of other vendors.
 
 Provides HiQDev information and settings:
+
 * general data: vendor name and company title
 * contact data: email, forum, github page
 * authors data: names, roles, emails, github and home pages
