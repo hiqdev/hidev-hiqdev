@@ -1,6 +1,10 @@
 hiqdev/hidev-vendor changelog
 -----------------------------
 
+## 0.3.2 2016-03-30
+
+- Changed `extension-config` <- `yii2-extraconfig`
+
 ## 0.3.1 2016-02-18
 
 - Changed: disabled `phpdoc_to_comment` fixer
