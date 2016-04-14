@@ -1,6 +1,13 @@
 hiqdev/hidev-vendor commits history
 -----------------------------------
 
+## 0.3.3 2016-04-14
+
+- Fixed build with asset-packagist
+    - c81c33d 2016-04-14 fixed build with asset-packagist (sol@hiqdev.com)
+- Changed to `hidev-config` <- `extension-config`
+    - 5ef918a 2016-04-13 redone to `hidev-config` <- `extension-config` (sol@hiqdev.com)
+
 ## 0.3.2 2016-03-30
 
 - Changed `extension-config` <- `yii2-extraconfig`
