@@ -3,8 +3,8 @@
 $header = <<<EOF
 HiQDev vendor configuration for HiDev
 
-@link      https://github.com/hiqdev/hidev-vendor
-@package   hidev-vendor
+@link      https://github.com/hiqdev/hidev-hiqdev
+@package   hidev-hiqdev
 @license   BSD-3-Clause
 @copyright Copyright (c) 2015-2016, HiQDev (http://hiqdev.com/)
 EOF;
@@ -49,6 +49,8 @@ return Symfony\CS\Config\Config::create()
             ->notPath('vendor')
             ->notPath('runtime')
             ->notPath('web/assets')
-            ->notPath('tests/unit/UnitTester.php')
+            ->notPath('vendor')
+            ->notPath('runtime')
+            ->notPath('web/assets')
     )
 ;

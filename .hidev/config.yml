@@ -1,6 +1,6 @@
 package:
     type:           yii2-extension
-    name:           hidev-vendor
+    name:           hidev-hiqdev
     title:          HiQDev vendor configuration for HiDev
     headline:       HiDev HiQDev
     keywords:       hiqdev, hidev, vendor, config

@@ -1,8 +1,9 @@
-hiqdev/hidev-vendor commits history
+hiqdev/hidev-hiqdev commits history
 -----------------------------------
 
 ## 0.4.0 2016-05-21
 
+- Changed: redone to `composer-config-plugin`
     - 9fbe412 2016-05-21 fixed path to goals.yml (sol@hiqdev.com)
     - 66c46ae 2016-05-21 redoing to composer-config-plugin (sol@hiqdev.com)
     - e9d35d7 2016-05-21 redoing to composer-config-plugin (sol@hiqdev.com)

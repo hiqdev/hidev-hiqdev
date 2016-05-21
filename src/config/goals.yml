@@ -74,4 +74,3 @@ php-cs-fixer:
             - vendor
             - runtime
             - web/assets
-            - tests/unit/UnitTester.php

@@ -1,5 +1,5 @@
 {
-    "name": "hiqdev/hidev-vendor",
+    "name": "hiqdev/hidev-hiqdev",
     "type": "yii2-extension",
     "description": "HiQDev vendor configuration for HiDev",
     "keywords": [
@@ -8,13 +8,13 @@
         "vendor",
         "config"
     ],
-    "homepage": "https://github.com/hiqdev/hidev-vendor",
+    "homepage": "https://github.com/hiqdev/hidev-hiqdev",
     "license": "BSD-3-Clause",
     "support": {
         "email": "support@hiqdev.com",
-        "source": "https://github.com/hiqdev/hidev-vendor",
-        "issues": "https://github.com/hiqdev/hidev-vendor/issues",
-        "wiki": "https://github.com/hiqdev/hidev-vendor/wiki",
+        "source": "https://github.com/hiqdev/hidev-hiqdev",
+        "issues": "https://github.com/hiqdev/hidev-hiqdev/issues",
+        "wiki": "https://github.com/hiqdev/hidev-hiqdev/wiki",
         "forum": "http://forum.hiqdev.com/"
     },
     "authors": [

@@ -3,12 +3,12 @@ HiDev HiQDev
 
 **HiQDev vendor configuration for HiDev**
 
-[![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-vendor/v/stable)](https://packagist.org/packages/hiqdev/hidev-vendor)
-[![Total Downloads](https://poser.pugx.org/hiqdev/hidev-vendor/downloads)](https://packagist.org/packages/hiqdev/hidev-vendor)
-[![Build Status](https://img.shields.io/travis/hiqdev/hidev-vendor.svg)](https://travis-ci.org/hiqdev/hidev-vendor)
-[![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/hiqdev/hidev-vendor.svg)](https://scrutinizer-ci.com/g/hiqdev/hidev-vendor/)
-[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/hidev-vendor.svg)](https://scrutinizer-ci.com/g/hiqdev/hidev-vendor/)
-[![Dependency Status](https://www.versioneye.com/php/hiqdev:hidev-vendor/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:hidev-vendor/dev-master)
+[![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-hiqdev/v/stable)](https://packagist.org/packages/hiqdev/hidev-hiqdev)
+[![Total Downloads](https://poser.pugx.org/hiqdev/hidev-hiqdev/downloads)](https://packagist.org/packages/hiqdev/hidev-hiqdev)
+[![Build Status](https://img.shields.io/travis/hiqdev/hidev-hiqdev.svg)](https://travis-ci.org/hiqdev/hidev-hiqdev)
+[![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/hiqdev/hidev-hiqdev.svg)](https://scrutinizer-ci.com/g/hiqdev/hidev-hiqdev/)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/hidev-hiqdev.svg)](https://scrutinizer-ci.com/g/hiqdev/hidev-hiqdev/)
+[![Dependency Status](https://www.versioneye.com/php/hiqdev:hidev-hiqdev/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:hidev-hiqdev/dev-master)
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 
@@ -31,13 +31,13 @@ The preferred way to install this yii2-extension is through [composer](http://ge
 Either run
 
 ```sh
-php composer.phar require "hiqdev/hidev-vendor"
+php composer.phar require "hiqdev/hidev-hiqdev"
 ```
 
 or add
 
 ```json
-"hiqdev/hidev-vendor": "*"
+"hiqdev/hidev-hiqdev": "*"
 ```
 
 to the require section of your composer.json.

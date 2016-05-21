@@ -1,8 +1,9 @@
-hiqdev/hidev-vendor changelog
+hiqdev/hidev-hiqdev changelog
 -----------------------------
 
 ## 0.4.0 2016-05-21
 
+- Changed: redone to `composer-config-plugin`
 
 ## 0.3.4 2016-04-15
 
