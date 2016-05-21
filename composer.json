@@ -44,14 +44,13 @@
         }
     ],
     "require": {
-        "hiqdev/composer-config-plugin": "*"
+        "hiqdev/composer-config-plugin": "*@dev"
     },
     "require-dev": {
         "hiqdev/hidev": "dev-master",
         "hiqdev/hidev-php": "dev-master",
         "hiqdev/hidev-readme": "dev-master",
         "hiqdev/hidev-travis": "dev-master",
-        "hiqdev/hidev-vendor": "dev-master",
         "hiqdev/hidev-license": "dev-master",
         "hiqdev/hidev-phpunit": "dev-master",
         "hiqdev/hidev-composer": "dev-master",
