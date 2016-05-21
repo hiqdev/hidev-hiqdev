@@ -13,23 +13,13 @@ package:
 
         Provides HiQDev information and settings:
 
-        * general data: vendor name and company title
-        * contact data: email, forum, github page
-        * authors data: names, roles, emails, github and home pages
-        * default license: BSD-3-Clause
+        - general data: vendor name and company title
+        - contact data: email, forum, github page
+        - authors data: names, roles, emails, github and home pages
+        - default license: BSD-3-Clause
 
-        See [src/config.yml](src/config.yml).
+        See [src/config/goals.yml](src/config/goals.yml).
 
 include:
-    - src/config.yml
-
-require:
-    hiqdev/hidev-php:           "*@dev"
-    hiqdev/hidev-readme:        "*@dev"
-    hiqdev/hidev-travis:        "*@dev"
-    hiqdev/hidev-license:       "*@dev"
-    hiqdev/hidev-phpunit:       "*@dev"
-    hiqdev/hidev-composer:      "*@dev"
-    hiqdev/hidev-scrutinizer:   "*@dev"
-    hiqdev/hidev-php-cs-fixer:  "*@dev"
+    - src/config/goals.yml
 
