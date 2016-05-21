@@ -17,12 +17,12 @@ Used for HiQDev packages. Can be used as template for configs of other vendors.
 
 Provides HiQDev information and settings:
 
-* general data: vendor name and company title
-* contact data: email, forum, github page
-* authors data: names, roles, emails, github and home pages
-* default license: BSD-3-Clause
+- general data: vendor name and company title
+- contact data: email, forum, github page
+- authors data: names, roles, emails, github and home pages
+- default license: BSD-3-Clause
 
-See [src/config.yml](src/config.yml).
+See [src/config/goals.yml](src/config/goals.yml).
 
 ## Installation
 

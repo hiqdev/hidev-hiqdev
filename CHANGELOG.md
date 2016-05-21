@@ -1,6 +1,9 @@
 hiqdev/hidev-vendor changelog
 -----------------------------
 
+## 0.4.0 2016-05-21
+
+
 ## 0.3.4 2016-04-15
 
 - Fixed `hiqdev/composer-extension-plugin` version constraint
