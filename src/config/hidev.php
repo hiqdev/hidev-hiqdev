@@ -13,7 +13,7 @@ return [
     'components' => [
         'config' => [
             'include' => [
-                '@hidev/hiqdev/config.yml',
+                '@hidev/hiqdev/config/goals.yml',
             ],
             'views' => [
                 '@hidev/hiqdev/views',
