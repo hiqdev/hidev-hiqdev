@@ -1,6 +1,11 @@
 hiqdev/hidev-hiqdev commits history
 -----------------------------------
 
+## 0.4.1 2016-05-24
+
+- Changed: redone to `hidev-hiqdev`
+    - 454f902 2016-05-21 redoing to `hidev-hiqdev` (sol@hiqdev.com)
+
 ## 0.4.0 2016-05-21
 
 - Changed: redone to `composer-config-plugin`
