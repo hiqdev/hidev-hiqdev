@@ -1,6 +1,10 @@
 hiqdev/hidev-hiqdev changelog
 -----------------------------
 
+## 0.4.2 2016-05-28
+
+- Changed php-cs-fixer config to v2
+
 ## 0.4.1 2016-05-24
 
 - Changed: redone to `hidev-hiqdev`

@@ -1,6 +1,14 @@
 hiqdev/hidev-hiqdev commits history
 -----------------------------------
 
+## 0.4.2 2016-05-28
+
+- Changed php-cs-fixer config to v2
+    - ed910c6 2016-05-28 still fixing config for php-cs-fixer v2 (sol@hiqdev.com)
+    - a342f3f 2016-05-28 resolved conflicting concat with/out spaces (sol@hiqdev.com)
+    - a3e06a4 2016-05-28 removed views from config (sol@hiqdev.com)
+    - a2cee40 2016-05-28 changed fixers for php-cs-fixer v2 (sol@hiqdev.com)
+
 ## 0.4.1 2016-05-24
 
 - Changed: redone to `hidev-hiqdev`
