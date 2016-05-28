@@ -15,9 +15,6 @@ return [
             'include' => [
                 '@hidev/hiqdev/config/goals.yml',
             ],
-            'views' => [
-                '@hidev/hiqdev/views',
-            ],
         ],
     ],
 ];
