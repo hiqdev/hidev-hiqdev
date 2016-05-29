@@ -51,7 +51,7 @@ php-cs-fixer:
         '-align_equals':                        'Align equals symbols in consecutive lines'
         '-unalign_equals':                      'Unalign equals symbols in consecutive lines'
         '-phpdoc_no_empty_return':              '@return void and @return null annotations should be omitted from phpdocs'
-        '-empty_return':                        'A return statement wishing to return nothing should be simply "return"'
+        '-simplified_null_return':              'A return statement wishing to return nothing should be simply "return"'
         '-blank_line_before_return':            'n empty line feed should precede a return statement'
         '-phpdoc_align':                        'All items of the @param, @throws, @return, @var, and @type phpdoc tags must be aligned vertically'
         '-phpdoc_params':                       'All items of the @param, @throws, @return, @var, and @type phpdoc tags must be aligned vertically'
