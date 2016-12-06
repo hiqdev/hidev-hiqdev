@@ -1,8 +1,10 @@
 hiqdev/hidev-hiqdev commits history
 -----------------------------------
 
-## [Under development]
+## [0.4.3] - 2016-12-06
 
+- Changed php-cs-fixer configuration for version 2
+    - [ab7fb56] 2016-12-06 redone bumping to `chkipper` [sol@hiqdev.com]
     - [f4ab4a4] 2016-12-06 csfixed [sol@hiqdev.com]
     - [d53ada8] 2016-12-03 redone php-cs-fixer configuration for version 2 [sol@hiqdev.com]
     - [ac7c713] 2016-05-29 still switching to php-cs-fixer v2 [sol@hiqdev.com]
@@ -236,3 +238,4 @@ hiqdev/hidev-hiqdev commits history
 [f4ab4a4]: https://github.com/hiqdev/hidev-hiqdev/commit/f4ab4a4
 [d53ada8]: https://github.com/hiqdev/hidev-hiqdev/commit/d53ada8
 [ac7c713]: https://github.com/hiqdev/hidev-hiqdev/commit/ac7c713
+[ab7fb56]: https://github.com/hiqdev/hidev-hiqdev/commit/ab7fb56

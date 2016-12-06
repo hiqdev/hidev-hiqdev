@@ -1,7 +1,9 @@
 hiqdev/hidev-hiqdev commits history
 -----------------------------------
 
-## [Under development]
+## [0.4.3] - 2016-12-06
+
+- Changed php-cs-fixer configuration for version 2
 
 ## [0.4.2] - 2016-05-28
 
