@@ -1,6 +1,5 @@
 <?php
-
-/*
+/**
  * HiQDev vendor configuration for HiDev
  *
  * @link      https://github.com/hiqdev/hidev-hiqdev
