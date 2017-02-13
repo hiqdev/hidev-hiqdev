@@ -1,6 +1,10 @@
 hiqdev/hidev-hiqdev commits history
 -----------------------------------
 
+## [0.4.5] - 2017-02-13
+
+- Removed use of unsupported fixers: `empty_return` and `phpdoc_params` ([@hiqsol])
+
 ## [0.4.4] - 2017-01-12
 
 - Changed emails to actually used in git ([@hiqsol])
@@ -97,7 +101,7 @@ hiqdev/hidev-hiqdev commits history
 [andreyklochok@gmail.com]: https://github.com/tafid
 [@BladeRoot]: https://github.com/BladeRoot
 [bladeroot@gmail.com]: https://github.com/BladeRoot
-[Under development]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.3...HEAD
+[Under development]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.4...HEAD
 [0.4.3]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.2...0.4.3
 [0.4.2]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.1...0.4.2
 [0.4.1]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.0...0.4.1
@@ -117,3 +121,4 @@ hiqdev/hidev-hiqdev commits history
 [0.0.2]: https://github.com/hiqdev/hidev-hiqdev/compare/0.0.1...0.0.2
 [0.0.1]: https://github.com/hiqdev/hidev-hiqdev/releases/tag/0.0.1
 [0.4.4]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.3...0.4.4
+[0.4.5]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.4...0.4.5

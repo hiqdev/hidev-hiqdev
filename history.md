@@ -1,6 +1,12 @@
 hiqdev/hidev-hiqdev commits history
 -----------------------------------
 
+## [0.4.5] - 2017-02-13
+
+- Removed use of unsupported fixers: `empty_return` and `phpdoc_params`
+    - [53fa10d] 2017-02-13 csfixed [@hiqsol]
+    - [2149544] 2017-02-09 removed `empty_return` and `phpdoc_params` fixers cause they are not supported anymore [@hiqsol]
+
 ## [0.4.4] - 2017-01-12
 
 - Changed emails to actually used in git
@@ -255,7 +261,7 @@ hiqdev/hidev-hiqdev commits history
 [ab7fb56]: https://github.com/hiqdev/hidev-hiqdev/commit/ab7fb56
 [c7c79d1]: https://github.com/hiqdev/hidev-hiqdev/commit/c7c79d1
 [d6c514a]: https://github.com/hiqdev/hidev-hiqdev/commit/d6c514a
-[Under development]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.3...HEAD
+[Under development]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.4...HEAD
 [0.4.3]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.2...0.4.3
 [0.4.2]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.1...0.4.2
 [0.4.1]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.0...0.4.1
@@ -275,3 +281,6 @@ hiqdev/hidev-hiqdev commits history
 [0.0.2]: https://github.com/hiqdev/hidev-hiqdev/compare/0.0.1...0.0.2
 [0.0.1]: https://github.com/hiqdev/hidev-hiqdev/releases/tag/0.0.1
 [0.4.4]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.3...0.4.4
+[53fa10d]: https://github.com/hiqdev/hidev-hiqdev/commit/53fa10d
+[2149544]: https://github.com/hiqdev/hidev-hiqdev/commit/2149544
+[0.4.5]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.4...0.4.5
