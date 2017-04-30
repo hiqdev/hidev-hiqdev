@@ -32,7 +32,7 @@ vendor:
             github:     https://github.com/BladeRoot
             homepage:   http://hiqdev.com/
 
-php-cs-fixer:
+.php_cs:
     level: symfony
     header: |
         {{ config.package.title }}
