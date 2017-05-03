@@ -1,5 +1,4 @@
-HiDev HiQDev
-============
+# HiDev HiQDev
 
 **HiQDev vendor configuration for HiDev**
 
