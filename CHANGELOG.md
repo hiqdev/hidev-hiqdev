@@ -1,5 +1,8 @@
-hiqdev/hidev-hiqdev commits history
------------------------------------
+# hiqdev/hidev-hiqdev
+
+## [0.6.0] - 2017-05-03
+
+- Redone to new hidev ([@hiqsol])
 
 ## [0.4.5] - 2017-02-13
 
@@ -101,7 +104,7 @@ hiqdev/hidev-hiqdev commits history
 [andreyklochok@gmail.com]: https://github.com/tafid
 [@BladeRoot]: https://github.com/BladeRoot
 [bladeroot@gmail.com]: https://github.com/BladeRoot
-[Under development]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.4...HEAD
+[Under development]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.5...HEAD
 [0.4.3]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.2...0.4.3
 [0.4.2]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.1...0.4.2
 [0.4.1]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.0...0.4.1
@@ -122,3 +125,4 @@ hiqdev/hidev-hiqdev commits history
 [0.0.1]: https://github.com/hiqdev/hidev-hiqdev/releases/tag/0.0.1
 [0.4.4]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.3...0.4.4
 [0.4.5]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.4...0.4.5
+[0.6.0]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.5...0.6.0

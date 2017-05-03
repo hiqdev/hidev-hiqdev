@@ -1,5 +1,11 @@
-hiqdev/hidev-hiqdev commits history
------------------------------------
+# hiqdev/hidev-hiqdev
+
+## [0.6.0] - 2017-05-03
+
+- Redone to new hidev
+    - [136cc82] 2017-05-03 csfixed [@hiqsol]
+    - [5494ca4] 2017-04-30 renamed `hidev.yml` <- .hidev/config.yml [@hiqsol]
+    - [1bbf103] 2017-04-30 redoing to new hidev [@hiqsol]
 
 ## [0.4.5] - 2017-02-13
 
@@ -261,7 +267,7 @@ hiqdev/hidev-hiqdev commits history
 [ab7fb56]: https://github.com/hiqdev/hidev-hiqdev/commit/ab7fb56
 [c7c79d1]: https://github.com/hiqdev/hidev-hiqdev/commit/c7c79d1
 [d6c514a]: https://github.com/hiqdev/hidev-hiqdev/commit/d6c514a
-[Under development]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.4...HEAD
+[Under development]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.5...HEAD
 [0.4.3]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.2...0.4.3
 [0.4.2]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.1...0.4.2
 [0.4.1]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.0...0.4.1
@@ -284,3 +290,7 @@ hiqdev/hidev-hiqdev commits history
 [53fa10d]: https://github.com/hiqdev/hidev-hiqdev/commit/53fa10d
 [2149544]: https://github.com/hiqdev/hidev-hiqdev/commit/2149544
 [0.4.5]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.4...0.4.5
+[136cc82]: https://github.com/hiqdev/hidev-hiqdev/commit/136cc82
+[5494ca4]: https://github.com/hiqdev/hidev-hiqdev/commit/5494ca4
+[1bbf103]: https://github.com/hiqdev/hidev-hiqdev/commit/1bbf103
+[0.6.0]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.5...0.6.0
