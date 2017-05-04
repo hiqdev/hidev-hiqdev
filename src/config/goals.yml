@@ -58,7 +58,9 @@ vendor:
             ['spacing' => 'one']
         array_syntax:                           |       # PHP arrays should use the PHP 5.4 short-syntax
             ['syntax' => 'short']
-        blank_line_before_return:               false   # n empty line feed should precede a return statement
+        phpdoc_no_alias_tag:                    |       # No alias PHPDoc tags should be used
+            ['replacements' => ['type' => 'var']]
+        blank_line_before_return:               false   # An empty line feed should precede a return statement
         phpdoc_align:                           false   # All items of the @param, @throws, @return, @var, and @type phpdoc tags must be aligned vertically
         phpdoc_scalar:                          false   # Scalar types should always be written in the same form. "int", not "integer"; "bool", not "boolean"
         phpdoc_separation:                      false   # Annotations of a different type are separated by a single blank line
