@@ -1,5 +1,10 @@
 # hiqdev/hidev-hiqdev
 
+## [0.6.1] - 2017-05-04
+
+- Fixed `phpdoc_no_alias_tag` fixer
+    - [065bf16] 2017-05-04 fixed `phpdoc_no_alias_tag` fixer: replace only type -> var [@hiqsol]
+
 ## [0.6.0] - 2017-05-03
 
 - Redone to new hidev
@@ -267,7 +272,7 @@
 [ab7fb56]: https://github.com/hiqdev/hidev-hiqdev/commit/ab7fb56
 [c7c79d1]: https://github.com/hiqdev/hidev-hiqdev/commit/c7c79d1
 [d6c514a]: https://github.com/hiqdev/hidev-hiqdev/commit/d6c514a
-[Under development]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.5...HEAD
+[Under development]: https://github.com/hiqdev/hidev-hiqdev/compare/0.6.0...HEAD
 [0.4.3]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.2...0.4.3
 [0.4.2]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.1...0.4.2
 [0.4.1]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.0...0.4.1
@@ -294,3 +299,5 @@
 [5494ca4]: https://github.com/hiqdev/hidev-hiqdev/commit/5494ca4
 [1bbf103]: https://github.com/hiqdev/hidev-hiqdev/commit/1bbf103
 [0.6.0]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.5...0.6.0
+[065bf16]: https://github.com/hiqdev/hidev-hiqdev/commit/065bf16
+[0.6.1]: https://github.com/hiqdev/hidev-hiqdev/compare/0.6.0...0.6.1
