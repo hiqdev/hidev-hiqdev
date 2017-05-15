@@ -1,6 +1,6 @@
 # HiDev HiQDev
 
-**HiQDev vendor configuration for HiDev**
+**HiDev plugin for HiQDev vendor configuration**
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-hiqdev/v/stable)](https://packagist.org/packages/hiqdev/hidev-hiqdev)
 [![Total Downloads](https://poser.pugx.org/hiqdev/hidev-hiqdev/downloads)](https://packagist.org/packages/hiqdev/hidev-hiqdev)
@@ -9,9 +9,9 @@
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/hidev-hiqdev.svg)](https://scrutinizer-ci.com/g/hiqdev/hidev-hiqdev/)
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:hidev-hiqdev/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:hidev-hiqdev/dev-master)
 
-[HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
+[HiDev] is the automation tool mixed with code generator for easier continuous development.
 
-This plugin provides [HiQDev](https://github.com/hiqdev) vendor configuration for HiDev.
+This plugin provides [HiQDev] vendor configuration for HiDev.
 Used for HiQDev packages. Can be used as template for configs of other vendors.
 
 Provides HiQDev information and settings:
@@ -21,7 +21,11 @@ Provides HiQDev information and settings:
 - authors data: names, roles, emails, github and home pages
 - default license: BSD-3-Clause
 
-See [src/config/goals.yml](src/config/goals.yml).
+See [src/config/goals.yml].
+
+[HiDev]:                https://github.com/hiqdev/hidev
+[HiQDev]:               https://github.com/hiqdev
+[src/config/goals.yml]: src/config/goals.yml
 
 ## Installation
 
