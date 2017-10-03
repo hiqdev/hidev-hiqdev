@@ -1,6 +1,6 @@
 <?php
 /**
- * HiDev plugin for HiQDev vendor configuration.
+ * HiDev plugin for HiQDev vendor configuration
  *
  * @link      https://github.com/hiqdev/hidev-hiqdev
  * @package   hidev-hiqdev
