@@ -51,8 +51,7 @@ vendor:
             ]
         binary_operator_spaces:                 |       # Align double arrow symbols in consecutive lines
             [
-                'align_double_arrow' => null,
-                'align_equals'       => null,
+                'default' => null,
             ]
         concat_space:                           |       # Concatenation should be spaced according configuration
             ['spacing' => 'one']
@@ -75,6 +74,8 @@ vendor:
         strict_comparison:                      true    # Comparison should be strict. (Risky fixer!)
         strict_param:                           true    # Functions should be used with $strict param. Warning! This could change code behavior
         no_multiline_whitespace_before_semicolons: true # Multi-line whitespace before closing semicolon are prohibited
+        semicolon_after_instruction: false
+        yoda_style: null
     finder:
         notPath:
             - vendor
