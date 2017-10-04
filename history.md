@@ -1,5 +1,12 @@
 # hiqdev/hidev-hiqdev
 
+## [0.6.2] - 2017-10-03
+
+- Fixed config php-cs-fixer newer version
+    - [7896cd0] 2017-10-03 csfixed [@hiqsol]
+    - [dda4e35] 2017-10-03 fixed config for php-cs-fixer newer version [@hiqsol]
+    - [d90eb17] 2017-05-15 csfixed [@hiqsol]
+
 ## [0.6.1] - 2017-05-04
 
 - Fixed `phpdoc_no_alias_tag` fixer
@@ -301,3 +308,7 @@
 [0.6.0]: https://github.com/hiqdev/hidev-hiqdev/compare/0.4.5...0.6.0
 [065bf16]: https://github.com/hiqdev/hidev-hiqdev/commit/065bf16
 [0.6.1]: https://github.com/hiqdev/hidev-hiqdev/compare/0.6.0...0.6.1
+[7896cd0]: https://github.com/hiqdev/hidev-hiqdev/commit/7896cd0
+[dda4e35]: https://github.com/hiqdev/hidev-hiqdev/commit/dda4e35
+[d90eb17]: https://github.com/hiqdev/hidev-hiqdev/commit/d90eb17
+[0.6.2]: https://github.com/hiqdev/hidev-hiqdev/compare/0.6.1...0.6.2
