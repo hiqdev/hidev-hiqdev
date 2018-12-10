@@ -32,9 +32,6 @@ vendor:
             github:     https://github.com/BladeRoot
             homepage:   http://hiqdev.com/
 
-default:
-    before:
-        README.md
 .php_cs:
     level: symfony
     header: |
