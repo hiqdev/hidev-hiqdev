@@ -85,3 +85,5 @@ default:
             - vendor
             - runtime
             - web/assets
+            - public/assets
+            - tests/_support/_generated
