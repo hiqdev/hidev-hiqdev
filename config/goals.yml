@@ -34,7 +34,7 @@ vendor:
 
 default:
     before:
-        README.md
+        - README.md
 .php_cs:
     level: symfony
     header: |
