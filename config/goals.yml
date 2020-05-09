@@ -87,3 +87,6 @@ default:
             - web/assets
             - public/assets
             - tests/_support/_generated
+
+behat:
+    colors: true
