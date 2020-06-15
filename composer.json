@@ -46,16 +46,20 @@
     "require": {
         "yiisoft/composer-config-plugin": "*@dev",
         "hiqdev/hidev-readme": "*@dev",
+        "hiqdev/hidev-travis": "*@dev",
+        "hiqdev/hidev-scrutinizer": "*@dev",
         "hiqdev/hidev-php-cs-fixer": "*@dev"
     },
     "require-dev": {
         "hiqdev/hidev": "dev-master",
         "hiqdev/hidev-php": "dev-master",
+        "hiqdev/hidev-readme": "dev-master",
         "hiqdev/hidev-travis": "dev-master",
         "hiqdev/hidev-license": "dev-master",
         "hiqdev/hidev-phpunit": "dev-master",
         "hiqdev/hidev-composer": "dev-master",
-        "hiqdev/hidev-scrutinizer": "dev-master"
+        "hiqdev/hidev-scrutinizer": "dev-master",
+        "hiqdev/hidev-php-cs-fixer": "dev-master"
     },
     "autoload": {
         "psr-4": {
